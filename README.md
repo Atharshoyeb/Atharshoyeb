@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mohd Athar Shoyeb
+# 👋 Hi there, I'm  Athar 
 
 ## About Me
 I'm a technology enthusiast with a strong focus on Machine Learning and Full Stack Development. I’ve gained hands-on experience in implementing various algorithms and data processing techniques. I’m always eager to explore new technologies and push the boundaries of what's possible.
