@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm  Athar 
+## 📄 [📑 Resume](https://drive.google.com/file/d/1C4WNw3hXsC7PE5BzcBq3iWBZQzN1w98P/view?usp=drive_link)
 
 ## About Me
 I'm a technology enthusiast with a strong focus on Machine Learning and Full Stack Development. I’ve gained hands-on experience in implementing various algorithms and data processing techniques. I’m always eager to explore new technologies and push the boundaries of what's possible.
