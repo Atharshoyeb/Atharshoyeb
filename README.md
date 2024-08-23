@@ -65,7 +65,7 @@ I'm a technology enthusiast with a strong focus on Machine Learning and Full Sta
 <!--END_SECTION:activity-->
 
 ## 📫 Let's Connect!
-- **Email:** [m.atharshoyeb12@gmail.com](mailto:m.atharshoyeb12@gmail.com)
+- **Email:** [m.atharshoyeb15@gmail.com](mailto:m.atharshoyeb15@gmail.com)
 - **LinkedIn:** [atharshoyeb](https://www.linkedin.com/in/atharshoyeb)
 - **GitHub:** [Atharshoyeb](https://github.com/Atharshoyeb)
 
