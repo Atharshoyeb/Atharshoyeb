@@ -34,8 +34,8 @@ I'm a technology enthusiast with a strong focus on Machine Learning and Full Sta
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat&logo=Google%20Analytics&logoColor=white)
 
 ### OS:
-- Linux
-- Ubuntu
+- KaliLinux
+- Windows
 
 ## 🚀 Projects
 - **[Detection of Phishing Emails](https://github.com/Atharshoyeb/phishingEmailDetection)** | Fraud Detection, Security  - Built a model for phishing email detection using features from different email parts.
