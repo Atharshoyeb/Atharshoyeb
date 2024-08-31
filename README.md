@@ -41,11 +41,11 @@ I'm a technology enthusiast with a strong focus on Machine Learning and Full Sta
 - **[Detection of Phishing Emails](https://github.com/Atharshoyeb/phishingEmailDetection)** | Fraud Detection, Security  - Built a model for phishing email detection using features from different email parts.
   - Achieved 96.65% accuracy with a Random Forest classifier.
 
-- **[Red Wine Quality Prediction]([https://github.com/Atharshoyeb/classificationProjects/blob/main/Red%20Wine%20Quality%20Prediction%20Project.ipynb](https://github.com/Atharshoyeb/classificationProjects/blob/main/ImageCaptioningSystem))** | Data Science, Prediction
+- **[Red Wine Quality Prediction](https://github.com/Atharshoyeb/classificationProjects/blob/main/Red%20Wine%20Quality%20Prediction%20Project.ipynb)** | Data Science, Prediction
   - Classified wine quality using physicochemical and sensory data.
   - Achieved an AUC score of 0.90 with Gradient Boosting.
 
-- **[Image Caption Generation](https://github.com/Atharshoyeb/image-caption-generation)** | Computer Vision, Python, TFX, Airflow, Flask
+- **[Image Caption Generation](https://github.com/Atharshoyeb/classificationProjects/blob/main/ImageCaptioningSystem)** | Computer Vision, Python, TFX, Airflow, Flask
   - Built a TFX + Airflow pipeline to generate image captions with visual attention on the MSCOCO dataset.
   - Achieved 85.3% accuracy and deployed as a service on Flask.
 
