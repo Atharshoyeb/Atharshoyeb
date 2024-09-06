@@ -1,4 +1,6 @@
 # 👋 Hi there, I'm  Athar 
+![Banner](https://github.com/Atharshoyeb/Atharshoyeb/blob/main/DALL%C2%B7E%202024-09-06%2018.24.17%20-%20A%20professional%20GitHub%20profile%20banner%20with%20a%20tech-savvy%2C%20modern%20look.%20The%20design%20features%20icons%20of%20technologies%20like%20Python%2C%20React%2C%20TensorFlow%2C%20and%20SQL.webp)
+
 ## 📄 Resume
 
 [![Resume](https://img.shields.io/badge/Resume-Click%20Here-blue?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1C4WNw3hXsC7PE5BzcBq3iWBZQzN1w98P/view?usp=drive_link)
