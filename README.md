@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm  Athar 
-![Banner](https://github.com/Atharshoyeb/Atharshoyeb/blob/main/DALL%C2%B7E%202024-09-06%2018.24.17%20-%20A%20professional%20GitHub%20profile%20banner%20with%20a%20tech-savvy%2C%20modern%20look.%20The%20design%20features%20icons%20of%20technologies%20like%20Python%2C%20React%2C%20TensorFlow%2C%20and%20SQL.webp)
+
 
 ## 📄 Resume
 
