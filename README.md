@@ -61,14 +61,7 @@ I'm a technology enthusiast with a strong focus on Machine Learning and Full Sta
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Atharshoyeb&theme=radical)
 
-## 📈 GitHub Activity
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/owner/repo/issues/1) in [owner/repo](https://github.com/owner/repo)
-2. 💪 Opened PR [#1](https://github.com/owner/repo/pull/1) in [owner/repo](https://github.com/owner/repo)
-3. 🎉 Merged PR [#1](https://github.com/owner/repo/pull/1) in [owner/repo](https://github.com/owner/repo)
-4. 💪 Opened PR [#2](https://github.com/owner/repo/pull/2) in [owner/repo](https://github.com/owner/repo)
-<!--END_SECTION:activity-->
 
 ## 📫 Let's Connect!
 - **Email:** [m.atharshoyeb15@gmail.com](mailto:m.atharshoyeb15@gmail.com)
