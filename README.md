@@ -28,12 +28,13 @@ I'm a technology enthusiast with a strong focus on Machine Learning and Full Sta
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=Matplotlib&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
 
-## Tools for Data Manipulation
-![Conda](https://img.shields.io/badge/-Conda-44A833?style=flat&logo=anaconda&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=Jupyter&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat&logo=Google%20Analytics&logoColor=white)
+## Tools for Data Manipulation  
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=Jupyter&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)  
+![PL/SQL](https://img.shields.io/badge/-PL/SQL-336791?style=flat&logo=oracle&logoColor=white)  
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat&logo=Google%20Cloud&logoColor=white)  
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat&logo=Google%20Analytics&logoColor=white)  
+
 
 ### OS:
 - KaliLinux
